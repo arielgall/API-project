@@ -1,1 +1,9 @@
-
+#app {
+    text-align: right;
+  }
+  
+  body {
+    background: linear-gradient(indianred, darkorange, gold, darkseagreen, powderblue);
+    
+    font-family:'Forum', cursive;
+  }
